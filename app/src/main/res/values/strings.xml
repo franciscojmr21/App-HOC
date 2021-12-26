@@ -2,7 +2,7 @@
 <resources>
     <!-- untitled strings -->
 
-    <string name="app_name">Page 1</string>
+    <string name="app_name">HOC</string>
     <string name="ek_img_content">ExportKit Image</string>
     <string name="welcome__string">WELCOME!</string>
     <string name="use_the_information_on_your_device_to_log_in_to_your_account_string">Use the information on your device to log in to your account</string>
