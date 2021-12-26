@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.hoc">
+
+    <application
+        android:allowBackup="true"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".instructio1_activity"
+            android:exported="false" />
+        <activity
+            android:name=".scroll_stickers_activity"
+            android:exported="false" />
+        <activity
+            android:name=".new_sticker_activity"
+            android:exported="false" />
+        <activity
+            android:name=".empty_main_activity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".login_activity" />
+        <activity android:name=".instruction_1_activity" />
+        <activity android:name=".instruction_2_activity" />
+        <activity android:name=".instruction_3_activity" />
+        <activity android:name=".instruction_4_activity" />
+        <activity android:name=".instruction_family_1_activity" />
+        <activity android:name=".instruction_family_2_activity" />
+        <activity android:name=".instruction_family_3_activity" />
+        <activity android:name=".instruction_family_4_activity" />
+        <activity android:name=".role_activity" />
+        <activity android:name=".loading_activity" />
+        <activity android:name=".settings_activity" />
+        <activity android:name=".main_activity" />
+        <activity android:name=".edit_activity" />
+        <activity android:name=".a_new_sticker_activity" />
+        <activity android:name=".editing_sticker_activity" />
+        <activity android:name=".editing_sticker_image_activity" />
+    </application>
+
+</manifest>

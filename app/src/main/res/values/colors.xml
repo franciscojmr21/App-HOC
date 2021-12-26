@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- untitled colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+
+	<color name="_bg__login_ek2_color">#FFFFFF</color>
+	<color name="welcome__color">#6E36B3</color>
+	<color name="use_the_information_on_your_device_to_log_in_to_your_account_color">#3B1E62</color>
+	<color name="login_ek5_color">#C4C4C4</color>
+	<color name="rectangle_19_color">#FFD91A</color>
+	<color name="rectangle_20_color">#9D4DFF</color>
+	<color name="rectangle_20_ek4_color">#9600CC</color>
+	<color name="rectangle_18_color">#ffffff</color>
+	<color name="login_ek18_color">#D51B1B</color>
+	<color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+	<color name="_bg__main_no_stickers_color">#FFFFFF</color>
+	<color name="a_new_sticker_color">#3B1E62</color>
+	<color name="button_add_color">#6E36B3</color>
+	<color name="_bg__choosing_role_color">#FFFFFF</color>
+	<color name="text_which_one_are_you__color">#6E36B3</color>
+	<color name="for_comfortable_interaction_with_the_application__specify_who_you_are_color">#3B1E62</color>
+	<color name="button_rectangle_color">#C4C4C4</color>
+	<color name="_frame_family_color">#ffffff</color>
+</resources>
